@@ -1,16 +1,16 @@
 > <b>🚀 VERSIÓN 1.4.9</b>
  
 <p align="center"> 
-<a href="https://github.com/Andylitt"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ShizzyBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/Andylitt"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=L7NXBOT-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
 <img src=".com/W8o.
- jpg" alt="ShizzyBot-MD" width="900"/>
+ jpg" alt="L7NXBOT-MD" width="900"/>
 </p>
 
 <p align="center">
-<a href="#"><img title="ShizzyBot-MD" src="https://img.ds.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="L7NXBOT-MD" src="https://img.ds.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pig.com/originals/d4/3c/90/d43c90dfd079b.gif" height="28px">
 </p>  
 
